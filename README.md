@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Sebastian!👋
 
 <!--
 **SebastianMercutioVaca/SebastianMercutioVaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+- Computer Engineering Student at UCF
+- Interested in Software Engineering, Cybersecurity, and Embedded Systems
+- Open to internships and part-time roles
+
+🌱 I've acquired my skills in C++. Currently learning Python, and digtal systems.
+💬 Ask me about coding, engineering, or military/cybersecurity pathways!
+
