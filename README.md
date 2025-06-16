@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 - Computer Engineering Student at UCF
-- Interested in Software Engineering, Cybersecurity, and Embedded Systems
+- Interested in Software Engineering, Hardware, Cybersecurity, and Embedded Systems
 - Open to internships and part-time roles
 
-🌱 I've acquired my skills in C++. Currently learning Python, and digtal systems.
-💬 Ask me about coding, engineering, or military/cybersecurity pathways!
+🌱 I've acquired my skills in C++ and Java programming. Currently learning Python, and digtal systems.
+💬 Ask me about coding, engineering, LangChain automations, programming softwares and languages.
 
