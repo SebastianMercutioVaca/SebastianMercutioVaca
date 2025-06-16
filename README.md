@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - Interested in Software Engineering, Hardware, Cybersecurity, and Embedded Systems
 - Open to internships and part-time roles
 
-🌱 I've acquired my skills in C++ and Java programming. Currently learning Python, and digtal systems.
+🌱 I've acquired my skills in C++, MatLab, C (language), Java programming. Currently learning Python, and digtal systems.
 💬 Ask me about coding, engineering, LangChain automations, programming softwares and languages.
 
